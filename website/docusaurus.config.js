@@ -1,30 +1,42 @@
+// docusaurus.config.js
+
+import { themes as prismThemes } from 'prism-react-renderer';
+
 module.exports = {
   title: 'Canopy Documentation',
   tagline: 'Empowering DeFi Projects and Asset Owners',
-  url: 'https://your-domain.com',
-  baseUrl: '/',
+  url: 'https://labs-solo.github.io', // Your website URL
+  baseUrl: '/canopy-docs/', // Base URL for your project
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'your-github-username', // GitHub org/user name.
-  projectName: 'canopy-documentation', // Repo name.
+  favicon: 'img/favicon.ico', // Place your favicon in static/img
+
+  // GitHub pages deployment config.
+  organizationName: 'labs-solo', // Usually your GitHub org/user name.
+  projectName: 'canopy-docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // The branch that GitHub Pages uses.
+
+  // If you plan to use GitHub Pages for deployment:
+  trailingSlash: false,
+
   themeConfig: {
     navbar: {
       title: 'Canopy',
       logo: {
         alt: 'Canopy Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.svg', // Place your logo in static/img
       },
       items: [
         {
-          to: 'docs/overview',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          type: 'doc',
+          docId: 'introduction/overview',
           position: 'left',
+          label: 'Docs',
         },
-        { to: 'blog', label: 'Blog', position: 'left' },
+        // Uncomment the following line if you have a blog
+        // { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/your-github-username/canopy-documentation',
+          href: 'https://github.com/labs-solo/canopy-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -38,7 +50,7 @@ module.exports = {
           items: [
             {
               label: 'Overview',
-              to: 'docs/overview',
+              to: '/docs/introduction/overview',
             },
           ],
         },
@@ -47,41 +59,46 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/your-discord-invite',
+              href: '#', // Add your Discord invite link
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/your-twitter-handle',
+              href: '#', // Add your Twitter profile link
             },
           ],
         },
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
+            // Uncomment the following line if you have a blog
+            // { label: 'Blog', to: '/blog' },
             {
               label: 'GitHub',
-              href: 'https://github.com/your-github-username/canopy-documentation',
+              href: 'https://github.com/labs-solo/canopy-docs',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Canopy Project.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Canopy.`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
     },
   },
+
   presets: [
     [
       '@docusaurus/preset-classic',
       {
         docs: {
+          path: 'docs', // Path to your docs directory
+          routeBasePath: '/docs', // URL route for your docs
           sidebarPath: require.resolve('./sidebars.js'),
+          editUrl:
+            'https://github.com/labs-solo/canopy-docs/edit/main/', // Update if your repo structure is different
         },
-        blog: {
-          showReadingTime: true,
-        },
+        blog: false, // Set to false if you don't have a blog
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
