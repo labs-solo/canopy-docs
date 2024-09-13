@@ -6,7 +6,7 @@ module.exports = {
   title: 'Canopy Documentation',
   tagline: 'Empowering DeFi Projects and Asset Owners',
   url: 'https://labs-solo.github.io', // Your website URL
-  baseUrl: '/canopy-docs/', // Base URL for your project
+  baseUrl: '/canopy-docs/website/', // Base URL for your project
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico', // Place your favicon in static/img
