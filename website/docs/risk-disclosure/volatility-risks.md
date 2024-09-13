@@ -25,7 +25,7 @@ title: Volatility Risks
 
 ---
 
-![Volatility Chart](../assets/images/volatility-chart.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Illustration of potential market volatility over time.*
 

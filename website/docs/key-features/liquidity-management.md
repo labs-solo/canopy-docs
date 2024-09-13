@@ -33,7 +33,7 @@ title: Liquidity Management
 
 ---
 
-![Liquidity Management Diagram](../assets/images/liquidity-management-diagram.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual representation of Canopy's liquidity management process.*
 

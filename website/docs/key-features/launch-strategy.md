@@ -39,7 +39,7 @@ title: Launch Strategy
 
 ---
 
-![Launch Timeline](../assets/images/launch-timeline.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual representation of Canopy's launch timeline and key milestones.*
 

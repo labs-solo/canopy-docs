@@ -36,7 +36,7 @@ title: Compliance with Securities Laws
 
 ---
 
-![Compliance Illustration](../assets/images/compliance-illustration.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual representation of Canopy's commitment to legal compliance.*
 

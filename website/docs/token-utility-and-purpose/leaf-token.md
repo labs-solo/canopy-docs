@@ -57,7 +57,7 @@ The **$LEAF token** is the primary utility and governance token within the Canop
 
 ---
 
-![Leaf Token Illustration](../assets/images/leaf-token-illustration.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual representation of the $LEAF token within the Canopy ecosystem.*
 

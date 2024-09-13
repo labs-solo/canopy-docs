@@ -25,7 +25,7 @@ title: Reward Distribution Engine
 
 ---
 
-![Reward Distribution Flow](../assets/images/reward-distribution-flow.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual guide to the reward distribution process.*
 

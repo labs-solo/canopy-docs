@@ -22,7 +22,7 @@ Welcome to **Canopy**, the groundbreaking decentralized finance (**DeFi**) platf
 
 ---
 
-![Canopy Ecosystem Illustration](../assets/images/canopy-ecosystem-illustration.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Join us under the Canopy, where your assets grow and flourish in a sustainable DeFi environment.*
 

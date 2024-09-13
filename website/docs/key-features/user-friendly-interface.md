@@ -15,7 +15,7 @@ title: User-Friendly Interface
 - **One-Click Actions**: Provide liquidity, stake tokens, or participate in governance with ease.
 - **Real-Time Analytics**: Stay informed with up-to-the-minute data on your assets and rewards.
 
-![User Dashboard Screenshot](../assets/images/user-dashboard.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Your personalized dashboard puts all essential information at your fingertips.*
 
@@ -37,7 +37,7 @@ title: User-Friendly Interface
 
 ---
 
-![Community Engagement](../assets/images/community-engagement.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Join a vibrant community that's passionate about DeFi innovation.*
 

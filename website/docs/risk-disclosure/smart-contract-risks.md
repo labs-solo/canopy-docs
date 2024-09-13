@@ -25,7 +25,7 @@ title: Smart Contract Risks
 
 ---
 
-![Smart Contract Security](../assets/images/smart-contract-security.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual representation of security measures in place for smart contracts.*
 

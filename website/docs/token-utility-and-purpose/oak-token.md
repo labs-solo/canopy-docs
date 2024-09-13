@@ -47,7 +47,7 @@ The **$OAK token** is designed to represent long-term value accrual within the C
 - **Flexible Redemption**: Choose when to redeem your $OAK for $LEAF based on your goals.
 - **Redemption Curve**: The value increases over time, providing incentives to hold longer.
 
-![Redemption Curve](../assets/images/oak-redemption-curve.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Graph illustrating how $OAK redemption value increases over time.*
 

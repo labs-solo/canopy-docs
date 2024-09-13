@@ -25,7 +25,7 @@ title: Regulatory Uncertainty
 
 ---
 
-![Regulatory Landscape Illustration](../assets/images/regulatory-landscape.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visualization of the global regulatory landscape affecting DeFi.*
 

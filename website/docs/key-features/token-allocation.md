@@ -24,7 +24,7 @@ title: Token Allocation
 
 ---
 
-![Token Allocation Pie Chart](../assets/images/token-allocation-pie-chart.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual representation of the token allocation for $LEAF and $OAK.*
 

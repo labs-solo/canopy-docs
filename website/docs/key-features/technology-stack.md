@@ -49,7 +49,7 @@ title: Technology Stack
 
 ---
 
-![Technology Stack Diagram](../assets/images/technology-stack-diagram.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visualization of the Canopy technology stack and how different components interact.*
 

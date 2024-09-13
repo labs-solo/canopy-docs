@@ -11,7 +11,7 @@ title: Visual Diagrams
 
 ## 🌐 **Ecosystem Flow Diagram**
 
-![Ecosystem Flow Diagram](../assets/images/ecosystem-flow-diagram.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Illustrates the flow of tokens and interactions among users, liquidity pools, and the AEGIS contract.*
 
@@ -19,7 +19,7 @@ title: Visual Diagrams
 
 ## 💱 **Token Interaction Diagram**
 
-![Token Interaction Diagram](../assets/images/token-interaction-diagram.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Shows how $LEAF and $OAK tokens circulate within the ecosystem, highlighting the redemption mechanism and governance participation.*
 
@@ -27,7 +27,7 @@ title: Visual Diagrams
 
 ## 👤 **User Journey Map**
 
-![User Journey Map](../assets/images/user-journey-map.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visualizes the steps for asset owners and liquidity providers, from initial engagement to earning rewards.*
 
@@ -35,7 +35,7 @@ title: Visual Diagrams
 
 ## 📈 **Directional Liquidity Provision**
 
-![Directional Liquidity Diagram](../assets/images/directional-liquidity-diagram.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Depicts how the D-AMM technology enables single-token liquidity provision while mitigating risks.*
 

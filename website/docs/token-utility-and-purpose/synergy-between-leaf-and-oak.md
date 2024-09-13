@@ -41,7 +41,7 @@ The **$LEAF** and **$OAK** tokens are designed to complement each other, creatin
 
 ---
 
-![Synergy Illustration](../assets/images/leaf-oak-synergy.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual depiction of the symbiotic relationship between $LEAF and $OAK tokens.*
 

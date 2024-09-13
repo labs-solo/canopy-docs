@@ -41,7 +41,7 @@ title: Partnerships and Ecosystem Growth
 
 ---
 
-![Partnerships Network Map](../assets/images/partnerships-network-map.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Illustration of Canopy's network of partnerships and collaborative efforts.*
 

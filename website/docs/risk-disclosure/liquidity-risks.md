@@ -25,7 +25,7 @@ title: Liquidity Risks
 
 ---
 
-![Liquidity Risk Illustration](../assets/images/liquidity-risk.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Illustration depicting scenarios where liquidity risks may occur.*
 

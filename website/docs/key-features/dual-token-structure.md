@@ -29,7 +29,7 @@ title: Dual-Token Structure
 
 ---
 
-![Dual-Token Interaction](../assets/images/dual-token-interaction.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Illustration of how $LEAF and $OAK tokens interact within the ecosystem.*
 

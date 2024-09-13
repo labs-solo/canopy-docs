@@ -36,7 +36,7 @@ title: Failsafe Mechanisms and Oversight
 
 ---
 
-![Failsafe Mechanisms Diagram](../assets/images/failsafe-mechanisms-diagram.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Diagram illustrating the various failsafe mechanisms integrated into the AEGIS Contract.*
 

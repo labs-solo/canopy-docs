@@ -39,7 +39,7 @@ The Canopy ecosystem is thoughtfully designed to create a harmonious environment
 
 ---
 
-![Ecosystem Flow Diagram](../assets/images/ecosystem-flow-diagram.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual representation of token flow and user interactions within Canopy.*
 

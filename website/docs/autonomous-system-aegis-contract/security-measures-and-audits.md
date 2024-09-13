@@ -39,7 +39,7 @@ title: Security Measures and Audits
 
 ---
 
-![Security Measures Illustration](../assets/images/security-measures-illustration.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual depiction of the layers of security protecting Canopy.*
 

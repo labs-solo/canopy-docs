@@ -25,7 +25,7 @@ title: $OAK Redemption Mechanism
 
 ---
 
-![$OAK Redemption Curve](../assets/images/oak-redemption-curve.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Graph illustrating the increasing redemption value of $OAK over time.*
 

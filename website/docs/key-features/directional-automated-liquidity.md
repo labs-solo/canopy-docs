@@ -31,7 +31,7 @@ Directional Automated Liquidity is a groundbreaking approach that allows you to 
 
 ---
 
-![Directional Liquidity Illustration](../assets/images/directional-liquidity-illustration.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual representation of single-token liquidity provision through D-AMM.*
 

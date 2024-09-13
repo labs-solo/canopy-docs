@@ -31,7 +31,7 @@ title: Governance
 
 ---
 
-![Governance Flowchart](../assets/images/governance-flowchart.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Illustration of the governance process and how proposals move from submission to implementation.*
 

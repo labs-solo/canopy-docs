@@ -31,7 +31,7 @@ The **AEGIS Contract** is an autonomous smart contract system that manages liqui
 
 ---
 
-![AEGIS Contract Illustration](../assets/images/aegis-contract-illustration.png)
+![Placeholder Image](TODO: Create and add image here)
 
 *Visual representation of the AEGIS Contract's autonomous operations within Canopy.*
 
