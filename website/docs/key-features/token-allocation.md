@@ -48,7 +48,7 @@ title: Token Allocation
 
 ## 📖 **Learn More**
 
-- Understand how tokens are used in our [Dual-Token Structure](dual-token-structure.md).
-- Participate in [Governance](governance.md) to have a say in future allocations.
+- Understand how tokens are used in our [Dual-Token Structure](dual-token-structure).
+- Participate in [Governance](governance) to have a say in future allocations.
 
 ---

@@ -52,6 +52,6 @@ title: User-Friendly Interface
 
 ## 🚀 **Get Started Today**
 
-- Visit the [Getting Started](../getting-started/for-asset-owners.md) section tailored for asset owners.
-- Dive into [Directional Automated Liquidity](../key-features/directional-automated-liquidity.md) to learn about our innovative approach.
+- Visit the [Getting Started](../getting-started/for-asset-owners) section tailored for asset owners.
+- Dive into [Directional Automated Liquidity](../key-features/directional-automated-liquidity) to learn about our innovative approach.
 

@@ -70,7 +70,7 @@ title: Launch Strategy
 
 ## 📖 **Learn More**
 
-- Get ready by visiting the [Getting Started](../getting-started/for-liquidity-providers.md) section.
-- Stay updated with our [Changelog](../changelog-and-ongoing-compliance/changelog.md) for the latest developments.
+- Get ready by visiting the [Getting Started](../getting-started/for-liquidity-providers) section.
+- Stay updated with our [Changelog](../changelog-and-ongoing-compliance/changelog) for the latest developments.
 
 ---

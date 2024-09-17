@@ -59,8 +59,8 @@ title: Educational Articles
 
 ## 📖 **Related Resources**
 
-- Check out our [Interactive Tutorials](interactive-tutorials.md) for hands-on learning.
-- Visit the [Glossary of Terms](../glossary/glossary-of-terms.md) to familiarize yourself with key concepts.
+- Check out our [Interactive Tutorials](interactive-tutorials) for hands-on learning.
+- Visit the [Glossary of Terms](../glossary/glossary-of-terms) to familiarize yourself with key concepts.
 
 ---
 

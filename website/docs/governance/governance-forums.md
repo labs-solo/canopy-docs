@@ -64,8 +64,8 @@ title: Governance Forums
 
 ## 📖 **Additional Resources**
 
-- Learn about the [Voting Process](voting-process.md) to participate effectively.
-- Review the [Governance](../key-features/governance.md) section for an overview.
+- Learn about the [Voting Process](voting-process) to participate effectively.
+- Review the [Governance](../key-features/governance) section for an overview.
 
 ---
 

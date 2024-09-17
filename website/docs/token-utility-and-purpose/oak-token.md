@@ -70,7 +70,7 @@ The **$OAK token** is designed to represent long-term value accrual within the C
 
 ## 📖 **Learn More**
 
-- Understand the [\$OAK Redemption Mechanism](../key-features/oak-redemption-mechanism.md) in detail.
-- Discover how $OAK works with $LEAF in the [Synergy Between $LEAF and $OAK](synergy-between-leaf-and-oak.md) section.
+- Understand the [\$OAK Redemption Mechanism](../key-features/oak-redemption-mechanism) in detail.
+- Discover how $OAK works with $LEAF in the [Synergy Between $LEAF and $OAK](synergy-between-leaf-and-oak) section.
 
 ---

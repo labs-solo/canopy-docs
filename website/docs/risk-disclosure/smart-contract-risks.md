@@ -57,8 +57,8 @@ title: Smart Contract Risks
 
 ## 📖 **Learn More**
 
-- Review other [Risk Disclosures](../risk-disclosure/regulatory-uncertainty.md) to fully understand potential risks.
-- Visit [User Education Materials](../user-education-materials/interactive-tutorials.md) to learn how to interact safely with smart contracts.
+- Review other [Risk Disclosures](../risk-disclosure/regulatory-uncertainty) to fully understand potential risks.
+- Visit [User Education Materials](../user-education-materials/interactive-tutorials) to learn how to interact safely with smart contracts.
 
 ---
 

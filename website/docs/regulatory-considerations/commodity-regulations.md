@@ -53,8 +53,8 @@ title: Commodity Regulations
 
 ## 📖 **Learn More**
 
-- Review our [Terms of Service](../terms-of-service-and-user-agreements/terms-of-service.md) for detailed legal guidelines.
-- Understand other [Regulatory Considerations](banking-and-financial-services-regulations.md) relevant to you.
+- Review our [Terms of Service](../terms-of-service-and-user-agreements/terms-of-service) for detailed legal guidelines.
+- Understand other [Regulatory Considerations](banking-and-financial-services-regulations) relevant to you.
 
 ---
 

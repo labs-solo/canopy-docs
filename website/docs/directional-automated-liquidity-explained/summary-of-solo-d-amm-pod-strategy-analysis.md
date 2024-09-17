@@ -75,7 +75,7 @@ Our analysis focuses on evaluating the effectiveness of Solo D-AMM pods in achie
 
 ## 📖 **Next Steps**
 
-- Explore [Additional Resources](additional-resources.md) for deeper insights.
+- Explore [Additional Resources](additional-resources) for deeper insights.
 - Consider participating as a liquidity provider to experience the benefits firsthand.
 
 ---

@@ -56,8 +56,8 @@ title: Volatility Risks
 
 ## 📖 **Learn More**
 
-- Review other [Risk Disclosures](../risk-disclosure/smart-contract-risks.md) to fully understand potential risks.
-- Visit [User Education Materials](../user-education-materials/educational-articles.md) for more insights.
+- Review other [Risk Disclosures](../risk-disclosure/smart-contract-risks) to fully understand potential risks.
+- Visit [User Education Materials](../user-education-materials/educational-articles) for more insights.
 
 ---
 

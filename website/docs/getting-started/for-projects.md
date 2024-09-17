@@ -71,8 +71,8 @@ title: Getting Started for Projects
 
 ## 📖 **Learn More**
 
-- Explore [Partnerships and Ecosystem Growth](../key-features/partnerships-and-ecosystem-growth.md) to understand the benefits of collaborating with Canopy.
-- Review our [Technology Stack](../key-features/technology-stack.md) for technical details.
+- Explore [Partnerships and Ecosystem Growth](../key-features/partnerships-and-ecosystem-growth) to understand the benefits of collaborating with Canopy.
+- Review our [Technology Stack](../key-features/technology-stack) for technical details.
 
 ---
 

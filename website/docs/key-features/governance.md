@@ -39,7 +39,7 @@ title: Governance
 
 ## 🛠️ **How to Participate**
 
-1. **Stay Informed**: Keep up with upcoming proposals and discussions through our [Governance Forums](../governance/governance-forums.md).
+1. **Stay Informed**: Keep up with upcoming proposals and discussions through our [Governance Forums](../governance/governance-forums).
 2. **Vote on Proposals**: Use your tokens to vote on active proposals directly through the platform.
 3. **Submit Proposals**: Have an idea? Submit your own proposal for community consideration.
 
@@ -63,7 +63,7 @@ title: Governance
 
 ## 📖 **Learn More**
 
-- Visit the [Voting Process](../governance/voting-process.md) page for detailed instructions.
-- Join the conversation in our [Governance Forums](../governance/governance-forums.md).
+- Visit the [Voting Process](../governance/voting-process) page for detailed instructions.
+- Join the conversation in our [Governance Forums](../governance/governance-forums).
 
 ---

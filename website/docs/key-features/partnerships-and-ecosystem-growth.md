@@ -56,7 +56,7 @@ title: Partnerships and Ecosystem Growth
 
 ## 🚀 **How to Get Started**
 
-1. **Reach Out**: Contact us through the [Contact Information](../contact-us/contact-information.md) page.
+1. **Reach Out**: Contact us through the [Contact Information](../contact-us/contact-information) page.
 2. **Proposal Submission**: Submit your partnership proposal outlining your goals and how we can collaborate.
 3. **Onboarding**: Our team will guide you through the integration and setup process.
 
@@ -64,7 +64,7 @@ title: Partnerships and Ecosystem Growth
 
 ## 📖 **Learn More**
 
-- Explore [For Projects](../getting-started/for-projects.md) to understand how Canopy can support your project.
-- Learn about our [Launch Strategy](launch-strategy.md) and how it benefits partners.
+- Explore [For Projects](../getting-started/for-projects) to understand how Canopy can support your project.
+- Learn about our [Launch Strategy](launch-strategy) and how it benefits partners.
 
 ---

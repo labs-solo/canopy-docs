@@ -55,7 +55,7 @@ title: $OAK Redemption Mechanism
 
 ## 📖 **Learn More**
 
-- Understand the [Synergy Between $LEAF and $OAK](../token-utility-and-purpose/synergy-between-leaf-and-oak.md).
-- Participate in [Governance](../governance/voting-process.md) to influence redemption policies.
+- Understand the [Synergy Between $LEAF and $OAK](../token-utility-and-purpose/synergy-between-leaf-and-oak).
+- Participate in [Governance](../governance/voting-process) to influence redemption policies.
 
 ---

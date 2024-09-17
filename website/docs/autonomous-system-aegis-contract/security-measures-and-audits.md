@@ -63,8 +63,8 @@ title: Security Measures and Audits
 
 ## 📖 **Learn More**
 
-- Explore the [Failsafe Mechanisms and Oversight](failsafe-mechanisms-and-oversight.md) that complement our security measures.
-- Understand the [Autonomous Nature and Decision-Making](autonomous-nature-and-decision-making.md) of the AEGIS Contract.
+- Explore the [Failsafe Mechanisms and Oversight](failsafe-mechanisms-and-oversight) that complement our security measures.
+- Understand the [Autonomous Nature and Decision-Making](autonomous-nature-and-decision-making) of the AEGIS Contract.
 
 ---
 

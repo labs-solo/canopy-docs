@@ -61,7 +61,7 @@ title: Dual-Token Structure
 
 ## 📖 **Learn More**
 
-- Explore the [Token Utility and Purpose](../token-utility-and-purpose/leaf-token.md) section for detailed insights.
-- Understand the [Synergy Between $LEAF and $OAK](../token-utility-and-purpose/synergy-between-leaf-and-oak.md).
+- Explore the [Token Utility and Purpose](../token-utility-and-purpose/leaf-token) section for detailed insights.
+- Understand the [Synergy Between $LEAF and $OAK](../token-utility-and-purpose/synergy-between-leaf-and-oak).
 
 ---

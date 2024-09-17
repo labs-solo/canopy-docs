@@ -75,13 +75,13 @@ Directional Automated Market Makers (D-AMMs):
 - **Price Volatility**: While impermanent loss is reduced, asset value can still fluctuate.
 - **Smart Contract Risks**: Ensure you understand the technical risks involved.
 
-Refer to our [Risk Disclosure](../risk-disclosure/volatility-risks.md) for more details.
+Refer to our [Risk Disclosure](../risk-disclosure/volatility-risks) for more details.
 
 ---
 
 ## 📖 **Next Steps**
 
-Learn how D-AMM technology contributes to the broader DeFi ecosystem in [Strengthening the DeFi Ecosystem](strengthening-the-defi-ecosystem.md).
+Learn how D-AMM technology contributes to the broader DeFi ecosystem in [Strengthening the DeFi Ecosystem](strengthening-the-defi-ecosystem).
 
 ---
 

@@ -78,8 +78,8 @@ title: Strengthening the DeFi Ecosystem
 
 ## 📖 **Next Steps**
 
-- Review the [Summary of Solo D-AMM Pod Strategy Analysis](summary-of-solo-d-amm-pod-strategy-analysis.md) for an in-depth look at strategic considerations.
-- Explore [Additional Resources](additional-resources.md) to further your understanding.
+- Review the [Summary of Solo D-AMM Pod Strategy Analysis](summary-of-solo-d-amm-pod-strategy-analysis) for an in-depth look at strategic considerations.
+- Explore [Additional Resources](additional-resources) to further your understanding.
 
 ---
 

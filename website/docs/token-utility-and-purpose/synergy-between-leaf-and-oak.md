@@ -64,7 +64,7 @@ The **$LEAF** and **$OAK** tokens are designed to complement each other, creatin
 
 ## 📖 **Learn More**
 
-- Dive into the specifics of the [$LEAF Token](leaf-token.md) and [$OAK Token](oak-token.md).
-- Start participating by visiting [Getting Started for Asset Owners](../getting-started/for-asset-owners.md).
+- Dive into the specifics of the [$LEAF Token](leaf-token) and [$OAK Token](oak-token).
+- Start participating by visiting [Getting Started for Asset Owners](../getting-started/for-asset-owners).
 
 ---

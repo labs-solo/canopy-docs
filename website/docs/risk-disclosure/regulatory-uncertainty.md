@@ -56,8 +56,8 @@ title: Regulatory Uncertainty
 
 ## 📖 **Learn More**
 
-- Review other [Risk Disclosures](liquidity-risks.md) to fully understand potential risks.
-- Visit [Terms of Service](../terms-of-service-and-user-agreements/terms-of-service.md) for more details on legal considerations.
+- Review other [Risk Disclosures](liquidity-risks) to fully understand potential risks.
+- Visit [Terms of Service](../terms-of-service-and-user-agreements/terms-of-service) for more details on legal considerations.
 
 ---
 

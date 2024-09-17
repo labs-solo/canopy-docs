@@ -25,7 +25,7 @@ By acquiring or holding $LEAF or $OAK tokens, you agree to be bound by these Agr
 ## 3. **Token Usage**
 
 - **Platform Access**: Tokens may be used to access certain features and services on the platform.
-- **Governance Participation**: Token holders may participate in governance activities as outlined in the [Governance](../governance/voting-process.md) section.
+- **Governance Participation**: Token holders may participate in governance activities as outlined in the [Governance](../governance/voting-process) section.
 
 ---
 
@@ -42,7 +42,7 @@ By acquiring or holding $LEAF or $OAK tokens, you agree to be bound by these Agr
 - **Regulatory Risks**: Changes in laws may affect the legality and value of the tokens.
 - **Technical Risks**: There is a risk of smart contract vulnerabilities or other technical issues.
 
-For more details, please review our [Risk Disclosure](../risk-disclosure/volatility-risks.md) section.
+For more details, please review our [Risk Disclosure](../risk-disclosure/volatility-risks) section.
 
 ---
 
@@ -75,7 +75,7 @@ We reserve the right to amend these Agreements at any time. Changes will be effe
 
 ## 10. **Contact Us**
 
-For questions regarding these Agreements, please contact us at [Contact Information](../contact-us/contact-information.md).
+For questions regarding these Agreements, please contact us at [Contact Information](../contact-us/contact-information).
 
 ---
 

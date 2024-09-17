@@ -53,8 +53,8 @@ title: Banking and Financial Services Regulations
 
 ## 📖 **Learn More**
 
-- Read our [Terms of Service](../terms-of-service-and-user-agreements/terms-of-service.md) for legal details.
-- Explore other [Regulatory Considerations](../regulatory-considerations/compliance-with-securities-laws.md) affecting your participation.
+- Read our [Terms of Service](../terms-of-service-and-user-agreements/terms-of-service) for legal details.
+- Explore other [Regulatory Considerations](../regulatory-considerations/compliance-with-securities-laws) affecting your participation.
 
 ---
 

@@ -81,12 +81,12 @@ Liquidity that is owned and managed by the Canopy platform itself, reinvesting f
 
 ---
 
-**Did we miss a term?** Let us know through our [User Feedback](../changelog-and-ongoing-compliance/user-feedback.md) page.
+**Did we miss a term?** Let us know through our [User Feedback](../changelog-and-ongoing-compliance/user-feedback) page.
 
 ---
 
 ## 🔗 **Continue Exploring**
 
-- Discover our [User-Friendly Interface](../key-features/user-friendly-interface.md) designed for your convenience.
-- Understand the [Directional Automated Liquidity](../key-features/directional-automated-liquidity.md) that powers Canopy.
+- Discover our [User-Friendly Interface](../key-features/user-friendly-interface) designed for your convenience.
+- Understand the [Directional Automated Liquidity](../key-features/directional-automated-liquidity) that powers Canopy.
 

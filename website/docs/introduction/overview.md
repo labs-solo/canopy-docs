@@ -30,6 +30,6 @@ Welcome to **Canopy**, the groundbreaking decentralized finance (**DeFi**) platf
 
 👉 **Next Steps**:
 
-- Learn more about our ecosystem in the [Ecosystem Structure](ecosystem-structure.md) section.
-- Familiarize yourself with key terms in our [Glossary of Terms](glossary-of-terms.md).
+- Learn more about our ecosystem in the [Ecosystem Structure](ecosystem-structure) section.
+- Familiarize yourself with key terms in our [Glossary of Terms](glossary-of-terms).
 

@@ -51,7 +51,7 @@ title: Voting Process
 ## 💡 **Tips for Effective Participation**
 
 - **Stay Informed**: Regularly check for new proposals and updates.
-- **Engage in Discussions**: Join conversations in the [Governance Forums](governance-forums.md).
+- **Engage in Discussions**: Join conversations in the [Governance Forums](governance-forums).
 - **Consider Impact**: Evaluate how proposals affect the ecosystem and your interests.
 
 ---
@@ -74,8 +74,8 @@ title: Voting Process
 
 ## 📖 **Learn More**
 
-- Visit the [Governance Forums](governance-forums.md) to join the conversation.
-- Read about the [Dual-Token Structure](../key-features/dual-token-structure.md) to understand voting power.
+- Visit the [Governance Forums](governance-forums) to join the conversation.
+- Read about the [Dual-Token Structure](../key-features/dual-token-structure) to understand voting power.
 
 ---
 

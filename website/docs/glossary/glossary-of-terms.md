@@ -101,13 +101,13 @@ title: Glossary of Terms
 
 ## 📖 **Additional Resources**
 
-- **Educational Articles**: Expand your knowledge with our [Educational Articles](../user-education-materials/educational-articles.md).
-- **FAQs**: Find answers to common questions in our [General FAQs](../faqs/general-faqs.md).
+- **Educational Articles**: Expand your knowledge with our [Educational Articles](../user-education-materials/educational-articles).
+- **FAQs**: Find answers to common questions in our [General FAQs](../faqs/general-faqs).
 
 ---
 
 **Can't find a term?**
 
-Feel free to reach out to us at [Contact Information](../contact-us/contact-information.md), and we'll be happy to assist!
+Feel free to reach out to us at [Contact Information](../contact-us/contact-information), and we'll be happy to assist!
 
 ---

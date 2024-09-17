@@ -79,8 +79,8 @@ To build a transparent, secure, and user-centric DeFi ecosystem that empowers in
 
 ## 📖 **Related Resources**
 
-- Review our [Changelog](changelog.md) for the latest updates.
-- Learn about our [Security Measures](../autonomous-system-aegis-contract/security-measures-and-audits.md) in place.
+- Review our [Changelog](changelog) for the latest updates.
+- Learn about our [Security Measures](../autonomous-system-aegis-contract/security-measures-and-audits) in place.
 
 ---
 

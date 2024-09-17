@@ -59,8 +59,8 @@ title: Interactive Tutorials
 
 ## 📖 **Additional Learning Resources**
 
-- Read our [Educational Articles](educational-articles.md) for in-depth knowledge.
-- Visit the [FAQs](../faqs/general-faqs.md) for quick answers to common questions.
+- Read our [Educational Articles](educational-articles) for in-depth knowledge.
+- Visit the [FAQs](../faqs/general-faqs) for quick answers to common questions.
 
 ---
 

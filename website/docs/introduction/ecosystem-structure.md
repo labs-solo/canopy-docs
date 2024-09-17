@@ -56,6 +56,6 @@ The Canopy ecosystem is thoughtfully designed to create a harmonious environment
 
 ## 🚀 **Ready to Dive Deeper?**
 
-- Explore our [Visual Diagrams](visual-diagrams.md) for a detailed look at the ecosystem.
-- Check out the [Key Features](../key-features/user-friendly-interface.md) that make Canopy stand out.
+- Explore our [Visual Diagrams](visual-diagrams) for a detailed look at the ecosystem.
+- Check out the [Key Features](../key-features/user-friendly-interface) that make Canopy stand out.
 

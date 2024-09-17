@@ -19,7 +19,7 @@ title: User Feedback
 
 ### **2. Community Forums**
 
-- **Discussion Threads**: Participate in conversations on specific topics or features in our [Governance Forums](../governance/governance-forums.md).
+- **Discussion Threads**: Participate in conversations on specific topics or features in our [Governance Forums](../governance/governance-forums).
 
 ### **3. Direct Contact**
 
@@ -63,8 +63,8 @@ We review all feedback and prioritize improvements based on community needs and 
 
 ## 📖 **Related Resources**
 
-- **Changelog**: Check out recent updates in our [Changelog](changelog.md).
-- **Internal Guidelines**: Learn about our development principles in the [Internal Guidelines](internal-guidelines.md) section.
+- **Changelog**: Check out recent updates in our [Changelog](changelog).
+- **Internal Guidelines**: Learn about our development principles in the [Internal Guidelines](internal-guidelines) section.
 
 ---
 

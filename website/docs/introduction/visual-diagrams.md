@@ -47,6 +47,6 @@ title: Visual Diagrams
 
 ## 🔗 **Next Up**
 
-- Familiarize yourself with essential terminology in our [Glossary of Terms](glossary-of-terms.md).
-- Learn about our [User-Friendly Interface](../key-features/user-friendly-interface.md) designed for seamless interaction.
+- Familiarize yourself with essential terminology in our [Glossary of Terms](glossary-of-terms).
+- Learn about our [User-Friendly Interface](../key-features/user-friendly-interface) designed for seamless interaction.
 

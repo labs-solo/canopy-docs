@@ -65,7 +65,7 @@ title: Technology Stack
 
 ## 📖 **Learn More**
 
-- Understand the [Autonomous Nature of the AEGIS Contract](../autonomous-system-aegis-contract/autonomous-nature-and-decision-making.md).
-- Get started with development in the [For Developers](../getting-started/for-developers.md) section.
+- Understand the [Autonomous Nature of the AEGIS Contract](../autonomous-system-aegis-contract/autonomous-nature-and-decision-making).
+- Get started with development in the [For Developers](../getting-started/for-developers) section.
 
 ---

@@ -57,7 +57,7 @@ title: Reward Distribution Engine
 
 ## 📖 **Learn More**
 
-- Check out [For Liquidity Providers](../getting-started/for-liquidity-providers.md) to start earning.
-- Understand the [\$OAK Redemption Mechanism](oak-redemption-mechanism.md) for long-term rewards.
+- Check out [For Liquidity Providers](../getting-started/for-liquidity-providers) to start earning.
+- Understand the [\$OAK Redemption Mechanism](oak-redemption-mechanism) for long-term rewards.
 
 ---

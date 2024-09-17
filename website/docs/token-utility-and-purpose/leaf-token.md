@@ -65,7 +65,7 @@ The **$LEAF token** is the primary utility and governance token within the Canop
 
 ## 📖 **Learn More**
 
-- Explore the [Dual-Token Structure](../key-features/dual-token-structure.md) to see how $LEAF and $OAK work together.
-- Start earning $LEAF in the [Getting Started for Liquidity Providers](../getting-started/for-liquidity-providers.md) section.
+- Explore the [Dual-Token Structure](../key-features/dual-token-structure) to see how $LEAF and $OAK work together.
+- Start earning $LEAF in the [Getting Started for Liquidity Providers](../getting-started/for-liquidity-providers) section.
 
 ---

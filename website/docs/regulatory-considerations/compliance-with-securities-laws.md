@@ -65,8 +65,8 @@ title: Compliance with Securities Laws
 
 ## 📖 **Learn More**
 
-- Review our [Terms of Service](../terms-of-service-and-user-agreements/terms-of-service.md) for detailed legal information.
-- Understand other [Regulatory Considerations](commodity-regulations.md) relevant to your participation.
+- Review our [Terms of Service](../terms-of-service-and-user-agreements/terms-of-service) for detailed legal information.
+- Understand other [Regulatory Considerations](commodity-regulations) relevant to your participation.
 
 ---
 

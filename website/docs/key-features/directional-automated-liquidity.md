@@ -61,7 +61,7 @@ By enabling more participants to provide liquidity with ease and reduced risk, C
 
 ## 📖 **Learn More**
 
-- Dive into the technical details in our [Directional Automated Liquidity Explained](../directional-automated-liquidity-explained/introduction.md) section.
-- Understand how this feature benefits [Asset Owners](../getting-started/for-asset-owners.md).
+- Dive into the technical details in our [Directional Automated Liquidity Explained](../directional-automated-liquidity-explained/introduction) section.
+- Understand how this feature benefits [Asset Owners](../getting-started/for-asset-owners).
 
 ---

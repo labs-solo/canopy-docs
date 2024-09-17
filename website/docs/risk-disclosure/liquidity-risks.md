@@ -56,8 +56,8 @@ title: Liquidity Risks
 
 ## 📖 **Learn More**
 
-- Review other [Risk Disclosures](../risk-disclosure/volatility-risks.md) to fully understand potential risks.
-- Explore [Liquidity Management](../key-features/liquidity-management.md) to see how Canopy addresses liquidity challenges.
+- Review other [Risk Disclosures](../risk-disclosure/volatility-risks) to fully understand potential risks.
+- Explore [Liquidity Management](../key-features/liquidity-management) to see how Canopy addresses liquidity challenges.
 
 ---
 

@@ -57,7 +57,7 @@ title: Liquidity Management
 
 ## 📖 **Learn More**
 
-- Dive deeper into the [Autonomous System - AEGIS Contract](../autonomous-system-aegis-contract/autonomous-nature-and-decision-making.md).
-- Understand how to [Get Started](../getting-started/for-liquidity-providers.md) with liquidity provision.
+- Dive deeper into the [Autonomous System - AEGIS Contract](../autonomous-system-aegis-contract/autonomous-nature-and-decision-making).
+- Understand how to [Get Started](../getting-started/for-liquidity-providers) with liquidity provision.
 
 ---

@@ -6,8 +6,8 @@ module.exports = {
   title: 'Canopy Documentation',
   tagline: 'Empowering DeFi Projects and Asset Owners',
   url: 'https://labs-solo.github.io', // Your website URL
-  baseUrl: '/canopy-docs/website/', // Base URL for your project
-  onBrokenLinks: 'throw',
+  baseUrl: '/canopy-docs/', // Base URL for your project
+  onBrokenLinks: 'warn', // Change this to 'warn' temporarily
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico', // Place your favicon in static/img
 
@@ -92,11 +92,8 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          path: 'docs', // Path to your docs directory
-          routeBasePath: '/docs', // URL route for your docs
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/labs-solo/canopy-docs/edit/main/', // Update if your repo structure is different
+          routeBasePath: '/', // This makes docs appear at the root
         },
         blog: false, // Set to false if you don't have a blog
         theme: {

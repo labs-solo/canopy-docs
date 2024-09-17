@@ -62,11 +62,11 @@ The **AEGIS Contract** is an autonomous smart contract system that manages liqui
 
 ## 📖 **Learn More**
 
-- Explore the [Failsafe Mechanisms and Oversight](failsafe-mechanisms-and-oversight.md) that safeguard the AEGIS Contract.
-- Understand [Security Measures and Audits](security-measures-and-audits.md) in place to protect the system.
+- Explore the [Failsafe Mechanisms and Oversight](failsafe-mechanisms-and-oversight) that safeguard the AEGIS Contract.
+- Understand [Security Measures and Audits](security-measures-and-audits) in place to protect the system.
 
 ---
 
-**Note**: While the AEGIS Contract operates autonomously, it is governed by the community through [Governance](../governance/voting-process.md) mechanisms.
+**Note**: While the AEGIS Contract operates autonomously, it is governed by the community through [Governance](../governance/voting-process) mechanisms.
 
 ---

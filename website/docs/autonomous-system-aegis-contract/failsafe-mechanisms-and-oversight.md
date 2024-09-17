@@ -65,8 +65,8 @@ title: Failsafe Mechanisms and Oversight
 
 ## 📖 **Learn More**
 
-- Understand the [Autonomous Nature and Decision-Making](autonomous-nature-and-decision-making.md) of the AEGIS Contract.
-- Explore the [Security Measures and Audits](security-measures-and-audits.md) that further protect the ecosystem.
+- Understand the [Autonomous Nature and Decision-Making](autonomous-nature-and-decision-making) of the AEGIS Contract.
+- Explore the [Security Measures and Audits](security-measures-and-audits) that further protect the ecosystem.
 
 ---
 

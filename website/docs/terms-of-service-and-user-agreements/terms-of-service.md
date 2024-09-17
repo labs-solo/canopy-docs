@@ -72,7 +72,7 @@ These Terms are governed by and construed in accordance with the laws applicable
 
 ## 10. **Contact Us**
 
-If you have any questions about these Terms, please contact us at [Contact Information](../contact-us/contact-information.md).
+If you have any questions about these Terms, please contact us at [Contact Information](../contact-us/contact-information).
 
 ---
 

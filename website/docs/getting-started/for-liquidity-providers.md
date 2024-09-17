@@ -67,8 +67,8 @@ title: Getting Started for Liquidity Providers
 
 ## 📖 **Learn More**
 
-- Read about [Directional Automated Liquidity](../key-features/directional-automated-liquidity.md).
-- Explore [Risk Disclosures](../risk-disclosure/volatility-risks.md) to understand potential risks.
+- Read about [Directional Automated Liquidity](../key-features/directional-automated-liquidity).
+- Explore [Risk Disclosures](../risk-disclosure/volatility-risks) to understand potential risks.
 
 ---
 

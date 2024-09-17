@@ -44,7 +44,7 @@ title: Contact Information
 
 ## 📝 **Feedback and Suggestions**
 
-We value your feedback! Share your thoughts and suggestions through our [User Feedback](../changelog-and-ongoing-compliance/user-feedback.md) page.
+We value your feedback! Share your thoughts and suggestions through our [User Feedback](../changelog-and-ongoing-compliance/user-feedback) page.
 
 ---
 
@@ -52,7 +52,7 @@ We value your feedback! Share your thoughts and suggestions through our [User Fe
 
 For technical issues or bug reports, please:
 
-1. **Check FAQs**: Visit our [General FAQs](../faqs/general-faqs.md) for common solutions.
+1. **Check FAQs**: Visit our [General FAQs](../faqs/general-faqs) for common solutions.
 2. **Submit a Ticket**: Send detailed information about your issue to [support@canopy.com](mailto:support@canopy.com).
 
 ---

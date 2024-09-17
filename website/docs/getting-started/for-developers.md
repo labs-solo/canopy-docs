@@ -79,7 +79,7 @@ title: Getting Started for Developers
 ## 📖 **Learn More**
 
 - Visit our [Developer Documentation](#) for detailed guides.
-- Check out the [Technology Stack](../key-features/technology-stack.md) to understand our infrastructure.
+- Check out the [Technology Stack](../key-features/technology-stack) to understand our infrastructure.
 
 ---
 

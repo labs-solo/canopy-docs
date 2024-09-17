@@ -21,7 +21,7 @@ title: Additional Resources
 
 3. **Security and Audits**:  
    Learn about the comprehensive security measures and audits in place to ensure the safety of the Canopy ecosystem.  
-   _[Link to Security Section](../autonomous-system-aegis-contract/security-measures-and-audits.md)_  
+   _[Link to Security Section](../autonomous-system-aegis-contract/security-measures-and-audits)_  
 
 4. **DeFi Risk Management Guide**:  
    An essential guide to understanding risk management in DeFi and how Canopy’s D-AMM mitigates some of the most common risks.  
@@ -100,6 +100,6 @@ Prefer visual learning? Check out our video tutorials!
 ---
 
 **Can’t find what you’re looking for?**  
-Reach out to us directly at [Contact Information](../contact-us/contact-information.md) for more support.
+Reach out to us directly at [Contact Information](../contact-us/contact-information) for more support.
 
 ---

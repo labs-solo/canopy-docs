@@ -67,8 +67,8 @@ title: Getting Started for Asset Owners
 
 ## 📖 **Learn More**
 
-- Read about [Liquidity Management](../key-features/liquidity-management.md).
-- Review [Risk Disclosures](../risk-disclosure/liquidity-risks.md) to make informed decisions.
+- Read about [Liquidity Management](../key-features/liquidity-management).
+- Review [Risk Disclosures](../risk-disclosure/liquidity-risks) to make informed decisions.
 
 ---
 

@@ -36,8 +36,8 @@ title: Changelog
 
 ### **New Features**
 
-- **Interactive Tutorials**: Launched hands-on learning modules in the [User Education Materials](../user-education-materials/interactive-tutorials.md).
-- **Governance Forums**: Introduced the [Governance Forums](../governance/governance-forums.md) for community discussions.
+- **Interactive Tutorials**: Launched hands-on learning modules in the [User Education Materials](../user-education-materials/interactive-tutorials).
+- **Governance Forums**: Introduced the [Governance Forums](../governance/governance-forums) for community discussions.
 
 ### **Improvements**
 
@@ -76,7 +76,7 @@ title: Changelog
 
 ## **Feedback and Suggestions**
 
-We welcome your input! Share your thoughts on new features or report issues through our [User Feedback](user-feedback.md) page.
+We welcome your input! Share your thoughts on new features or report issues through our [User Feedback](user-feedback) page.
 
 ---
 
