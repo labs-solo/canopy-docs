@@ -19,7 +19,7 @@ module.exports = {
       collapsed: false,
       items: [
         'key-features/user-friendly-interface',
-        'key-features/directional-automated-liquidity',
+        'key-features/directional-liquidity',
         'key-features/dual-token-structure',
         'key-features/liquidity-management',
         'key-features/reward-distribution-engine',
@@ -150,9 +150,9 @@ module.exports = {
       collapsed: false,
       items: [
         'directional-automated-liquidity-explained/introduction',
-        'directional-automated-liquidity-explained/how-does-solo-d-amm-work',
+        'directional-automated-liquidity-explained/how-does-directional-liquidity-work',
         'directional-automated-liquidity-explained/strengthening-the-defi-ecosystem',
-        'directional-automated-liquidity-explained/summary-of-solo-d-amm-pod-strategy-analysis',
+        'directional-automated-liquidity-explained/summary-of-directional-liquidity-strategy-analysis',
         'directional-automated-liquidity-explained/additional-resources',
       ],
     },
