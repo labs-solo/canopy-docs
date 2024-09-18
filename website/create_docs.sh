@@ -94,7 +94,7 @@ echo -e '# Glossary of Terms\n\n*Placeholder content for the Glossary of Terms s
 # Directional Automated Liquidity Explained
 mkdir -p directional-automated-liquidity-explained
 echo -e '# Introduction\n\n*Placeholder content for the Introduction section.*' > directional-automated-liquidity-explained/introduction.md
-echo -e '# How Does Solo D-AMM Work?\n\n*Placeholder content for the How Does Solo D-AMM Work? section.*' > directional-automated-liquidity-explained/how-does-solo-d-amm-work.md
+echo -e '# How Does Directional Liquidity Work?\n\n*Placeholder content for the How Does Directional Liquidity Work? section.*' > directional-automated-liquidity-explained/how-does-directional-liquidity-work.md
 echo -e '# Strengthening the DeFi Ecosystem\n\n*Placeholder content for the Strengthening the DeFi Ecosystem section.*' > directional-automated-liquidity-explained/strengthening-the-defi-ecosystem.md
-echo -e '# Summary of Solo D-AMM Pod Strategy Analysis\n\n*Placeholder content for the Summary of Solo D-AMM Pod Strategy Analysis section.*' > directional-automated-liquidity-explained/summary-of-solo-d-amm-pod-strategy-analysis.md
+echo -e '# Summary of Directional Liquidity Strategy Analysis\n\n*Placeholder content for the Summary of Directional Liquidity Strategy Analysis section.*' > directional-automated-liquidity-explained/summary-of-directional-liquidity-strategy-analysis.md
 echo -e '# Additional Resources\n\n*Placeholder content for the Additional Resources section.*' > directional-automated-liquidity-explained/additional-resources.md

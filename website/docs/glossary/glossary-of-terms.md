@@ -23,13 +23,13 @@ title: Glossary of Terms
 
 ### **C**
 
-- **Canopy**: A DeFi platform providing innovative liquidity solutions through Directional Automated Market Maker (D-AMM) technology.
+- **Canopy**: A DeFi platform providing innovative liquidity solutions through Directional Liquidity.
 
 ---
 
 ### **D**
 
-- **D-AMM (Directional Automated Market Maker)**: A type of AMM that allows for single-token liquidity provision, reducing the risk of impermanent loss.
+- **Directional Liquidity**: A type of AMM that allows for single-token liquidity provision, reducing the risk of impermanent loss.
 
 - **DeFi (Decentralized Finance)**: Financial services using smart contracts on blockchain technology, eliminating the need for intermediaries.
 

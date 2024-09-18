@@ -11,9 +11,9 @@ title: Additional Resources
 
 ## 🔗 **Key Resources**
 
-1. **Solo D-AMM Whitepaper**:  
-   Understand the foundational principles behind Solo’s Directional Automated Market Maker (D-AMM).  
-   _[Link to Solo D-AMM Whitepaper](#)_  
+1. **Directional Liquidity Whitepaper**:  
+   Understand the foundational principles behind Canopy's Directional Liquidity technology.  
+   _[Link to Directional Liquidity Whitepaper](#)_  
 
 2. **Canopy Tokenomics Overview**:  
    Dive into the details of Canopy’s tokenomics, including $OAK and $LEAF token functionality.  
@@ -24,7 +24,7 @@ title: Additional Resources
    _[Link to Security Section](../autonomous-system-aegis-contract/security-measures-and-audits)_  
 
 4. **DeFi Risk Management Guide**:  
-   An essential guide to understanding risk management in DeFi and how Canopy’s D-AMM mitigates some of the most common risks.  
+   An essential guide to understanding risk management in DeFi and how Canopy’s Directional Liquidity mitigates some of the most common risks.  
    _[Link to Risk Management Guide](#)_  
 
 ---
@@ -41,9 +41,9 @@ If you're new to DeFi or want to enhance your understanding of Canopy’s ecosys
    Understand how liquidity works in DeFi, what liquidity pools are, and how they generate value.  
    _[Link to Liquidity Basics](#)_  
 
-3. **D-AMM vs Traditional AMM**:  
-   A comparison of Directional Automated Market Makers (D-AMM) and traditional AMMs.  
-   _[Link to D-AMM vs Traditional AMM](#)_  
+3. **Directional Liquidity vs Traditional AMM**:  
+   A comparison of Directional Liquidity and traditional liquidity.  
+   _[Link to Directional Liquidity vs Traditional Liquidity](#)_  
 
 ---
 
@@ -79,8 +79,8 @@ If you're new to DeFi or want to enhance your understanding of Canopy’s ecosys
 
 Prefer visual learning? Check out our video tutorials!
 
-1. **How to Provide Liquidity Using D-AMM**:  
-   A video walkthrough of how to use Canopy’s D-AMM to provide liquidity.  
+1. **How to Provide Liquidity Using Directional Liquidity**:  
+   A video walkthrough of how to use Canopy's Directional Liquidity to provide liquidity.  
    _[Link to Video](#)_  
 
 2. **Understanding Tokenomics**:  

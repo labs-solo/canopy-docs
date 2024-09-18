@@ -5,7 +5,7 @@ title: Strengthening the DeFi Ecosystem
 
 # 🌐 Strengthening the DeFi Ecosystem
 
-**Discover how Canopy's D-AMM technology contributes to a more robust, inclusive, and efficient decentralized finance landscape.**
+**Discover how Canopy's Directional Liquidity technology contributes to a more robust, inclusive, and efficient decentralized finance landscape.**
 
 ---
 
@@ -39,7 +39,7 @@ title: Strengthening the DeFi Ecosystem
 
 ![Placeholder Image](TODO: Create and add image here)
 
-*Note: Insert an illustration showing the impact of D-AMM on the DeFi ecosystem.*
+*Note: Insert an illustration showing the impact of Directional Liquidity on the DeFi ecosystem.*
 
 ---
 

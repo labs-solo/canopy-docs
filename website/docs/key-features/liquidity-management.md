@@ -12,7 +12,7 @@ title: Liquidity Management
 ## ⚙️ **Directional Liquidity Provision**
 
 - **Single-Asset Deposits**: Provide liquidity using one asset, simplifying the process.
-- **Automated Rebalancing**: The D-AMM adjusts liquidity pools to maintain optimal balance.
+- **Automated Rebalancing**: The Directional Liquidity system adjusts liquidity pools to maintain optimal balance.
 - **Reduced Risk**: Mitigate exposure to impermanent loss and market volatility.
 
 ---

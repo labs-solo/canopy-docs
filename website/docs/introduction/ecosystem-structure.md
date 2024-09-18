@@ -11,13 +11,13 @@ title: Ecosystem Structure
 
 ## 🔍 Overview
 
-The Canopy ecosystem is thoughtfully designed to create a harmonious environment where projects, asset owners, and liquidity providers (**LPs**) thrive together. Our ecosystem leverages the power of **Directional Automated Market Maker (D-AMM)** technology and a dual-token system to deliver unmatched liquidity solutions.
+The Canopy ecosystem is thoughtfully designed to create a harmonious environment where projects, asset owners, and liquidity providers (**LPs**) thrive together. Our ecosystem leverages the power of **Directional Liquidity** technology and a dual-token system to deliver unmatched liquidity solutions.
 
 ---
 
 ## 🌀 **How It All Connects**
 
-### 1. **Directional Automated Market Maker (D-AMM)**
+### 1. **Directional Liquidity**
 
 - **Single-Token Liquidity Provision**: Deposit a single type of asset into liquidity pools.
 - **Risk Mitigation**: Reduce exposure to impermanent loss and unwanted asset liquidation.

@@ -5,16 +5,16 @@ title: Introduction
 
 # 🔄 Directional Automated Liquidity Explained
 
-**Dive deep into the innovative D-AMM technology that powers Canopy's unique liquidity solutions.**
+**Dive deep into the innovative Directional Liquidity technology that powers Canopy's unique liquidity solutions.**
 
 ---
 
 ## 🌟 **What You'll Learn**
 
-- **Understanding D-AMM**: Grasp the fundamentals of Directional Automated Market Makers.
-- **How Solo D-AMM Works**: Explore the mechanics behind single-token liquidity provision.
-- **Ecosystem Impact**: See how D-AMM strengthens the DeFi landscape.
-- **Strategy Analysis**: Review the benefits and considerations of using D-AMM.
+- **Understanding Directional Liquidity**: Grasp the fundamentals of Directional Liquidity.
+- **How Directional Liquidity Works**: Explore the mechanics behind single-token liquidity provision.
+- **Ecosystem Impact**: See how Directional Liquidity strengthens the DeFi landscape.
+- **Strategy Analysis**: Review the benefits and considerations of using Directional Liquidity.
 
 ---
 
@@ -26,9 +26,9 @@ The Directional Automated Liquidity Explained series provides detailed insights 
 
 ## 🗺️ **Topics Covered**
 
-1. [How Does Solo D-AMM Work?](how-does-solo-d-amm-work)
+1. [How Does Directional Liquidity Work?](how-does-directional-liquidity-work)
 2. [Strengthening the DeFi Ecosystem](strengthening-the-defi-ecosystem)
-3. [Summary of Solo D-AMM Pod Strategy Analysis](summary-of-directional-liquidity-strategy-analysis)
+3. [Summary of Directional Liquidity Strategy](summary-of-directional-liquidity-strategy-analysis)
 4. [Additional Resources](additional-resources)
 
 ---
@@ -55,10 +55,6 @@ A basic understanding of DeFi concepts such as:
 
 ## 📖 **Next Steps**
 
-Ready to get started? Proceed to [How Does Solo D-AMM Work?](how-does-solo-d-amm-work) to begin your exploration.
-
----
-
-**Empower yourself with knowledge and unlock the full potential of Canopy's D-AMM technology!**
+Ready to get started? Proceed to [How Does Directional Liquidity Work?](how-does-directional-liquidity-work) to begin your exploration.
 
 ---

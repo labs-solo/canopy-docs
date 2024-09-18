@@ -17,13 +17,13 @@ An autonomous smart contract responsible for managing liquidity and token intera
 
 ### **Asset Owner**
 
-An individual or entity holding tokens who can provide liquidity without selling off their assets using Canopy's D-AMM technology.
+An individual or entity holding tokens who can provide liquidity without selling off their assets using Canopy's Directional Liquidity technology.
 
 ---
 
-### **Directional Automated Market Maker (D-AMM)**
+### **Directional Liquidity**
 
-A type of Automated Market Maker that allows for single-token liquidity provision, minimizing the risk of over-selling assets and reducing exposure to impermanent loss.
+Liquidity provision that allows for single-token liquidity provision, minimizing the risk of over-selling assets and reducing exposure to impermanent loss.
 
 ---
 
@@ -71,7 +71,7 @@ Specialized pools within the D-AMM where asset owners can deposit a single type 
 
 ### **Directional Liquidity**
 
-A liquidity provision strategy that focuses on a single asset direction, allowing users to earn trading fees without exposing themselves to unwanted asset movements.
+A type of AMM that allows for single-token liquidity provision, reducing the risk of impermanent loss.
 
 ---
 
