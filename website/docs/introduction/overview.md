@@ -9,7 +9,7 @@ title: Overview
 
 ---
 
-Welcome to **Canopy**, the groundbreaking decentralized finance (**DeFi**) platform that's revolutionizing the way projects and asset owners engage with liquidity markets. By leveraging cutting-edge **Directional Automated Market Maker (D-AMM)** technology, Canopy enables any asset, anywhere, to **earn additional income from trading fees** while **mitigating the risk of selling off assets**.
+Welcome to **Canopy**, the groundbreaking decentralized finance (**DeFi**) platform that's revolutionizing the way projects and asset owners engage with liquidity markets. By leveraging cutting-edge Canopy enables any asset, anywhere, to **earn additional income from trading fees** while **mitigating the risk of selling off assets**.
 
 ---
 
