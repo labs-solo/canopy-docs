@@ -28,7 +28,7 @@ The Directional Automated Liquidity Explained series provides detailed insights 
 
 1. [How Does Solo D-AMM Work?](how-does-solo-d-amm-work)
 2. [Strengthening the DeFi Ecosystem](strengthening-the-defi-ecosystem)
-3. [Summary of Solo D-AMM Pod Strategy Analysis](summary-of-solo-d-amm-pod-strategy-analysis)
+3. [Summary of Solo D-AMM Pod Strategy Analysis](summary-of-directional-liquidity-strategy-analysis)
 4. [Additional Resources](additional-resources)
 
 ---

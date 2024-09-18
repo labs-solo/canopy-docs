@@ -17,7 +17,7 @@ title: Technology Stack
 - **Security Audited**: Undergoes regular audits to ensure reliability and safety.
 - **Failsafe Mechanisms**: Built-in protocols to prevent unauthorized actions and mitigate risks.
 
-### **2. Directional Automated Market Maker (D-AMM)**
+### **2. ICHI Automated Liquidity Manager (ALM)**
 
 - **Inventory-Aware Algorithm**: Maintains optimal asset ratios in liquidity pools.
 - **Single-Token Liquidity**: Enables users to provide liquidity with just one asset.
