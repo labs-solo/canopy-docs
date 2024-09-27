@@ -1,6 +1,10 @@
 ---
-id: for-developers
-title: Getting Started for Developers
+title: "Getting Started for Developers"
+slug: "getting-started-for-developers"
+id: "for-developers"
+category: "Getting Started"
+tags: ["Developers", "Setup"]
+publishedAt: "2024-09-18"
 ---
 
 # 👩‍💻 Getting Started for Developers

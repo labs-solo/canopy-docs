@@ -1,6 +1,10 @@
 ---
-id: for-projects
-title: Getting Started for Projects
+title: "Getting Started for Projects"
+slug: "getting-started-for-projects"
+id: "for-projects"
+category: "Getting Started"
+tags: ["Projects", "Setup"]
+publishedAt: "2024-09-18"
 ---
 
 # 🚀 Getting Started for Projects

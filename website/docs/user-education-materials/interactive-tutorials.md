@@ -1,6 +1,7 @@
 ---
 id: interactive-tutorials
 title: Interactive Tutorials
+slug: interactive-tutorials
 ---
 
 # 🎓 Interactive Tutorials

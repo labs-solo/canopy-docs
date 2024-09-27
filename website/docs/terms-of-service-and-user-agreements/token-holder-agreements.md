@@ -1,6 +1,7 @@
 ---
 id: token-holder-agreements
 title: Token Holder Agreements
+slug: token-holder-agreements
 ---
 
 # 📄 Token Holder Agreements

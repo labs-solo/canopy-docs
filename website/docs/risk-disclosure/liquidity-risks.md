@@ -1,6 +1,10 @@
 ---
-id: liquidity-risks
-title: Liquidity Risks
+title: "Liquidity Risks"
+slug: "liquidity-risks"
+id: "liquidity-risks"
+category: "Risk Disclosure"
+tags: ["Risks", "Liquidity"]
+publishedAt: "2024-09-18"
 ---
 
 # ⚠️ Liquidity Risks

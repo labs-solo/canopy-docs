@@ -1,6 +1,10 @@
 ---
-id: additional-resources
-title: Additional Resources
+title: "Additional Resources"
+slug: "additional-resources"
+id: "additional-resources"
+category: "Resources"
+tags: ["Resources", "Learning"]
+publishedAt: "2024-09-18"
 ---
 
 # 📚 Additional Resources

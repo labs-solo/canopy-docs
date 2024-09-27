@@ -1,6 +1,7 @@
 ---
 id: contact-information
 title: Contact Information
+slug: contact-information
 ---
 
 # 📞 Contact Us

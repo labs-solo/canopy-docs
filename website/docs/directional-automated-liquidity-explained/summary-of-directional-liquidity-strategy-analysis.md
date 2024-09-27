@@ -1,7 +1,11 @@
 ---
-id: summary-of-directional-liquidity-strategy-analysis
-title: Summary of Directional Liquidity Strategy Analysis
-------
+title: "Summary of Directional Liquidity Strategy Analysis"
+slug: "summary-of-directional-liquidity-strategy-analysis"
+id: "summary-of-directional-liquidity-strategy-analysis"
+category: "Analysis"
+tags: ["Directional Liquidity", "Strategy"]
+publishedAt: "2024-09-18"
+---
 
 # 📊 Summary of Directional Liquidity Strategy Analysis
 

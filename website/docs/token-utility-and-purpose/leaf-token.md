@@ -1,6 +1,7 @@
 ---
 id: leaf-token
 title: $LEAF Token
+slug: dollarleaf-token
 ---
 
 # 🌿 $LEAF Token

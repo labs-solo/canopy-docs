@@ -1,6 +1,10 @@
 ---
-id: liquidity-management
-title: Liquidity Management
+title: "Liquidity Management"
+slug: "liquidity-management"
+id: "liquidity-management"
+category: "Key Features"
+tags: ["Liquidity", "Management"]
+publishedAt: "2024-09-18"
 ---
 
 # 💧 Liquidity Management

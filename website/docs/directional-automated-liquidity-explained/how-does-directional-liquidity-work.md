@@ -1,6 +1,10 @@
 ---
-id: how-does-directional-liquidity-work
-title: How Does Directional Liquidity Work?
+title: "How Does Directional Liquidity Work?"
+slug: "how-does-directional-liquidity-work"
+id: "how-does-directional-liquidity-work"
+category: "Directional Liquidity"
+tags: ["Directional Liquidity", "Mechanics"]
+publishedAt: "2024-09-18"
 ---
 
 # 🔍 How Does Directional Liquidity Work?

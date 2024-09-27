@@ -1,6 +1,10 @@
 ---
-id: educational-articles
-title: Educational Articles
+title: "Educational Articles"
+slug: "educational-articles"
+id: "educational-articles"
+category: "Education"
+tags: ["Education", "DeFi"]
+publishedAt: "2024-09-18"
 ---
 
 # 📚 Educational Articles

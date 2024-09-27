@@ -1,6 +1,7 @@
 ---
 id: oak-token
 title: $OAK Token
+slug: dollaroak-token
 ---
 
 # 🌳 $OAK Token

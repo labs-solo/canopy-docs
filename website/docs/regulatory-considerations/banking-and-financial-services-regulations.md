@@ -1,6 +1,7 @@
 ---
 id: banking-and-financial-services-regulations
 title: Banking and Financial Services Regulations
+slug: banking-and-financial-services-regulations
 ---
 
 # 🏦 Banking and Financial Services Regulations

@@ -1,6 +1,10 @@
 ---
-id: oak-redemption-mechanism
-title: $OAK Redemption Mechanism
+title: " Redemption Mechanism"
+slug: "oak-redemption-mechanism"
+id: "oak-redemption-mechanism"
+category: "Key Features"
+tags: ["OAK", "Redemption"]
+publishedAt: "2024-09-18"
 ---
 
 # 🌳 $OAK Redemption Mechanism

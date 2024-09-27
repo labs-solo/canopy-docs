@@ -1,6 +1,7 @@
 ---
 id: internal-guidelines
 title: Internal Guidelines
+slug: internal-guidelines
 ---
 
 # 📝 Internal Guidelines

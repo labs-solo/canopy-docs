@@ -1,6 +1,10 @@
 ---
-id: directional-liquidity
-title: Directional Liquidity
+title: "Directional Automated Liquidity"
+slug: "directional-automated-liquidity"
+id: "directional-automated-liquidity"
+category: "Key Features"
+tags: ["Liquidity", "Features"]
+publishedAt: "2024-09-18"
 ---
 
 # 🔄 Directional Liquidity

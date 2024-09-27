@@ -1,6 +1,7 @@
 ---
 id: general-faqs
 title: General FAQs
+slug: general-faqs
 ---
 
 # ❓ General FAQs

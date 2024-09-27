@@ -1,6 +1,10 @@
 ---
-id: for-asset-owners
-title: Getting Started for Asset Owners
+title: "Getting Started for Asset Owners"
+slug: "getting-started-for-asset-owners"
+id: "for-asset-owners"
+category: "Getting Started"
+tags: ["Asset Owners", "Setup"]
+publishedAt: "2024-09-18"
 ---
 
 # 🏦 Getting Started for Asset Owners

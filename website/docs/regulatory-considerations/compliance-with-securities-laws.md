@@ -1,6 +1,7 @@
 ---
 id: compliance-with-securities-laws
 title: Compliance with Securities Laws
+slug: compliance-with-securities-laws
 ---
 
 # ⚖️ Compliance with Securities Laws

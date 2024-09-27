@@ -1,6 +1,7 @@
 ---
 id: summary-of-solo-d-amm-pod-strategy-analysis
 title: Summary of Solo D-AMM Pod Strategy Analysis
+slug: summary-of-solo-d-amm-pod-strategy-analysis
 ---
 
 # 📊 Summary of Solo D-AMM Pod Strategy Analysis

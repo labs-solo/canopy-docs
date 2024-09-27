@@ -1,6 +1,10 @@
 ---
-id: smart-contract-risks
-title: Smart Contract Risks
+title: "Smart Contract Risks"
+slug: "smart-contract-risks"
+id: "smart-contract-risks"
+category: "Risk Disclosure"
+tags: ["Risks", "Smart Contracts"]
+publishedAt: "2024-09-18"
 ---
 
 # ⚠️ Smart Contract Risks

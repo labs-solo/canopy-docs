@@ -1,6 +1,7 @@
 ---
 id: voting-process
 title: Voting Process
+slug: voting-process
 ---
 
 # 🗳️ Voting Process

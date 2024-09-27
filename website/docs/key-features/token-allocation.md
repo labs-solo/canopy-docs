@@ -1,6 +1,10 @@
 ---
-id: token-allocation
-title: Token Allocation
+title: "Token Allocation"
+slug: "token-allocation"
+id: "token-allocation"
+category: "Key Features"
+tags: ["Tokens", "Allocation"]
+publishedAt: "2024-09-18"
 ---
 
 # 🎯 Token Allocation

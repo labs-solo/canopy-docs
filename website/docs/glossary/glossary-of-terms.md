@@ -1,6 +1,7 @@
 ---
 id: glossary-of-terms
 title: Glossary of Terms
+slug: glossary-of-terms
 ---
 
 # 📖 Glossary of Terms

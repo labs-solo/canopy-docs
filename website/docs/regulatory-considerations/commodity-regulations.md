@@ -1,6 +1,7 @@
 ---
 id: commodity-regulations
 title: Commodity Regulations
+slug: commodity-regulations
 ---
 
 # 🛢️ Commodity Regulations

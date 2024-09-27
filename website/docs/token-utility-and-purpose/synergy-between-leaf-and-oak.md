@@ -1,6 +1,7 @@
 ---
 id: synergy-between-leaf-and-oak
 title: Synergy Between $LEAF and $OAK
+slug: synergy-between-dollarleaf-and-dollaroak
 ---
 
 # 🔗 Synergy Between $LEAF and $OAK

@@ -1,6 +1,10 @@
 ---
-id: launch-strategy
-title: Launch Strategy
+title: "Launch Strategy"
+slug: "launch-strategy"
+id: "launch-strategy"
+category: "Key Features"
+tags: ["Launch", "Strategy"]
+publishedAt: "2024-09-18"
 ---
 
 # 🚀 Launch Strategy

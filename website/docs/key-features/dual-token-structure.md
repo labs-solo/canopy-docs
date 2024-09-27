@@ -1,6 +1,10 @@
 ---
-id: dual-token-structure
-title: Dual-Token Structure
+title: "Dual-Token Structure"
+slug: "dual-token-structure"
+id: "dual-token-structure"
+category: "Key Features"
+tags: ["Tokens", "Structure"]
+publishedAt: "2024-09-18"
 ---
 
 # 🪙 Dual-Token Structure

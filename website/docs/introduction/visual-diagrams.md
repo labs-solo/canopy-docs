@@ -1,6 +1,7 @@
 ---
 id: visual-diagrams
 title: Visual Diagrams
+slug: visual-diagrams
 ---
 
 # 🖼️ Visual Diagrams

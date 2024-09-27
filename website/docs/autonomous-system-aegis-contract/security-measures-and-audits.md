@@ -1,6 +1,7 @@
 ---
 id: security-measures-and-audits
 title: Security Measures and Audits
+slug: security-measures-and-audits
 ---
 
 # 🔒 Security Measures and Audits

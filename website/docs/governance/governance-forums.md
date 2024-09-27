@@ -1,6 +1,7 @@
 ---
 id: governance-forums
 title: Governance Forums
+slug: governance-forums
 ---
 
 # 💬 Governance Forums

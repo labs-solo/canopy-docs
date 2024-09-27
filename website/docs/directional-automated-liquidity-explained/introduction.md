@@ -1,6 +1,10 @@
 ---
-id: introduction
-title: Introduction
+title: "Introduction to Directional Liquidity"
+slug: "introduction"
+id: "introduction"
+category: "Getting Started"
+tags: ["Directional Liquidity", "Introduction"]
+publishedAt: "2024-09-18"
 ---
 
 # 🔄 Directional Automated Liquidity Explained

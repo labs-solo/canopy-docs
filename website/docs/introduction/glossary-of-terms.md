@@ -1,6 +1,10 @@
 ---
-id: glossary-of-terms
-title: Glossary of Terms
+title: "Glossary of Terms"
+slug: "glossary-of-terms"
+id: "glossary-of-terms"
+category: "Reference"
+tags: ["Glossary", "Terms"]
+publishedAt: "2024-09-18"
 ---
 
 # 📖 Glossary of Terms

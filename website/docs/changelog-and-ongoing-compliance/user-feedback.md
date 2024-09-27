@@ -1,6 +1,7 @@
 ---
 id: user-feedback
 title: User Feedback
+slug: user-feedback
 ---
 
 # 📝 User Feedback

@@ -1,6 +1,10 @@
 ---
-id: for-liquidity-providers
-title: Getting Started for Liquidity Providers
+title: "Getting Started for Liquidity Providers"
+slug: "getting-started-for-liquidity-providers"
+id: "for-liquidity-providers"
+category: "Getting Started"
+tags: ["Liquidity Providers", "Setup"]
+publishedAt: "2024-09-18"
 ---
 
 # 💰 Getting Started for Liquidity Providers

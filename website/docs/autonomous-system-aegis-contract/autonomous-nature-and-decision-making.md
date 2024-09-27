@@ -1,6 +1,7 @@
 ---
 id: autonomous-nature-and-decision-making
 title: Autonomous Nature and Decision-Making
+slug: autonomous-nature-and-decision-making
 ---
 
 # 🤖 Autonomous Nature and Decision-Making

@@ -1,6 +1,10 @@
 ---
-id: governance
-title: Governance
+title: "Governance"
+slug: "governance"
+id: "governance"
+category: "Key Features"
+tags: ["Governance", "Management"]
+publishedAt: "2024-09-18"
 ---
 
 # 🗳️ Governance

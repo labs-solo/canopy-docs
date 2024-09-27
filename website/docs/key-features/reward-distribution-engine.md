@@ -1,6 +1,10 @@
 ---
-id: reward-distribution-engine
-title: Reward Distribution Engine
+title: "Reward Distribution Engine"
+slug: "reward-distribution-engine"
+id: "reward-distribution-engine"
+category: "Key Features"
+tags: ["Rewards", "Distribution"]
+publishedAt: "2024-09-18"
 ---
 
 # 🎁 Reward Distribution Engine

@@ -1,6 +1,10 @@
 ---
-id: partnerships-and-ecosystem-growth
-title: Partnerships and Ecosystem Growth
+title: "Partnerships and Ecosystem Growth"
+slug: "partnerships-and-ecosystem-growth"
+id: "partnerships-and-ecosystem-growth"
+category: "Key Features"
+tags: ["Partnerships", "Growth"]
+publishedAt: "2024-09-18"
 ---
 
 # 🤝 Partnerships and Ecosystem Growth

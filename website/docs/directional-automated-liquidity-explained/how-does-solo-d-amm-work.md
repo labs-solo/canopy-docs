@@ -1,6 +1,7 @@
 ---
 id: how-does-solo-d-amm-work
 title: How Does Solo D-AMM Work?
+slug: how-does-solo-d-amm-work
 ---
 
 # 🔍 How Does Solo D-AMM Work?

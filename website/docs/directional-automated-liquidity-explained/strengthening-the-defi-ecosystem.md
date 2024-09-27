@@ -1,6 +1,10 @@
 ---
-id: strengthening-the-defi-ecosystem
-title: Strengthening the DeFi Ecosystem
+title: "Strengthening the DeFi Ecosystem"
+slug: "strengthening-the-defi-ecosystem"
+id: "strengthening-the-defi-ecosystem"
+category: "Directional Liquidity"
+tags: ["DeFi", "Ecosystem"]
+publishedAt: "2024-09-18"
 ---
 
 # 🌐 Strengthening the DeFi Ecosystem

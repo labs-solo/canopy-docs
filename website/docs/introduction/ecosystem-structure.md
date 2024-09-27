@@ -1,6 +1,7 @@
 ---
 id: ecosystem-structure
 title: Ecosystem Structure
+slug: ecosystem-structure
 ---
 
 # 🏗️ Canopy Ecosystem Structure

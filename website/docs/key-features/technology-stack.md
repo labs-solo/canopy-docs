@@ -1,6 +1,10 @@
 ---
-id: technology-stack
-title: Technology Stack
+title: "Technology Stack"
+slug: "technology-stack"
+id: "technology-stack"
+category: "Key Features"
+tags: ["Technology", "Stack"]
+publishedAt: "2024-09-18"
 ---
 
 # 💻 Technology Stack

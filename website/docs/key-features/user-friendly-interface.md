@@ -1,6 +1,10 @@
 ---
-id: user-friendly-interface
-title: User-Friendly Interface
+title: "User-Friendly Interface"
+slug: "user-friendly-interface"
+id: "user-friendly-interface"
+category: "Key Features"
+tags: ["User Interface", "Features"]
+publishedAt: "2024-09-18"
 ---
 
 # 🖥️ User-Friendly Interface

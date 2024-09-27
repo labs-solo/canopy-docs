@@ -1,6 +1,10 @@
 ---
-id: volatility-risks
-title: Volatility Risks
+title: "Volatility Risks"
+slug: "volatility-risks"
+id: "volatility-risks"
+category: "Risk Disclosure"
+tags: ["Risks", "Volatility"]
+publishedAt: "2024-09-18"
 ---
 
 # ⚠️ Volatility Risks
